@@ -1,0 +1,4 @@
+OrderID,CustomerName,ProductName,ProductCategory
+1,John Doe,Apple,Fruit
+2,Jane Smith,Banana,Fruit
+3,John Doe,Broccoli,Vegetable
